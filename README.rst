@@ -515,9 +515,11 @@ C
 
 * `bootstrap.c`_: A template for simple projects written in C with autotools.
 * `cookiecutter-avr`_: A template for avr development.
+* `bootstrap.c_cmake`_: A template for projects in C with testing support managed by CMake.
 
 .. _`bootstrap.c`: https://github.com/vincentbernat/bootstrap.c
 .. _`cookiecutter-avr`: https://github.com/solarnz/cookiecutter-avr
+.. _`bootstrap.c_cmake`: https://github.com/richteraj/bootstrap.c_cmake
 
 
 C++

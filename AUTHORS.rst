@@ -114,6 +114,8 @@ Contributors
 * @delirious-lettuce (`@delirious-lettuce`_)
 * Gasper Vozel (`@karantan`_)
 * Joshua Carp (`@jmcarp`_)
+* @meahow (`@meahow`_)
+* Andrea Grandi (`@andreagrandi`_)
 
 .. _`@cedk`: https://github.com/cedk
 .. _`@johtso`: https://github.com/johtso
@@ -216,3 +218,6 @@ Contributors
 .. _`@delirious-lettuce`: https://github.com/delirious-lettuce
 .. _`@karantan`: https://github.com/karantan
 .. _`@jmcarp`: https://github.com/jmcarp
+.. _`@meahow`: https://github.com/meahow
+.. _`@andreagrandi`: https://github.com/andreagrandi
+

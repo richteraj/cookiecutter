@@ -298,7 +298,9 @@ Backers
 
 We would like to thank the following people for supporting us:
 
+* Alex DeBrie
 * Bruno Alla
+* Carol Willing
 * Russell Keith-Magee
 
 Code of Conduct
@@ -355,9 +357,11 @@ Python
 * `cookiecutter-pyqt4`_: A prebuilt PyQt4 GUI template with a logging support, structure for tests and separation of ui and worker components.
 * `cookiecutter-xontrib`_: A template for building xontribs, a.k.a `xonsh`_ contributions
 * `cookiecutter-conda-python`_: A template for building Conda Python packages
-* `cookiecutter-pypackage-rust-cross-platform-publish`_: A template for a Python wheel containing a Rust binary module that supports releasing on Windows, OSX and Linux. 
+* `cookiecutter-pypackage-rust-cross-platform-publish`_: A template for a Python wheel containing a Rust binary module that supports releasing on Windows, OSX and Linux.
 * `cookiecutter-telegram-bot`_: A template project for Telegram bots with webhooks on CherryPy.
 * `python-project-template`_: A template for Python projects with sophisticated release automation.
+* `cookiecutter-anyblok-project`_: A template for Anyblok based projects.
+* `cookiecutter-python-cli`_: A cookiecutter template for creating a Python CLI application using click
 
 .. _`cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
 .. _`cookiecutter-pipproject`: https://github.com/wdm0006/cookiecutter-pipproject
@@ -405,6 +409,8 @@ Python
 .. _`cookiecutter-pypackage-rust-cross-platform-publish`: https://github.com/mckaymatt/cookiecutter-pypackage-rust-cross-platform-publish
 .. _`cookiecutter-telegram-bot`: https://github.com/Ars2014/cookiecutter-telegram-bot
 .. _`python-project-template`: https://github.com/Kwpolska/python-project-template
+.. _`cookiecutter-anyblok-project`: https://github.com/AnyBlok/cookiecutter-anyblok-project
+.. _`cookiecutter-python-cli`: https://github.com/xuanluong/cookiecutter-python-cli
 
 Python-Django
 ^^^^^^^^^^^^^
@@ -433,6 +439,7 @@ Python-Django
 * `cc-automated-drf-template`_: A template + script that automatically creates your Django REST project with serializers, views, urls, and admin files based on your models file as input.
 * `cookiecutter-django-foundation`_: Fork of `cookiecutter-django`_ based on `Zurb Foundation`_ 6 front-end framework
 * `cookiecutter-django-ansible`_: Cookiecutter Django Ansible is a framework for jumpstarting an ansible project for provisioning a server that is ready for your *cookiecutter-django* application.
+* `wemake-django-template`_: Bleeding edge Django template focused on code quality and security.
 
 .. _`cookiecutter-django`: https://github.com/pydanny/cookiecutter-django
 .. _`cookiecutter-django-rest`: https://github.com/agconti/cookiecutter-django-rest
@@ -460,6 +467,7 @@ Python-Django
 .. _`cookiecutter-django-foundation`: https://github.com/Parbhat/cookiecutter-django-foundation
 .. _`Zurb Foundation`: http://foundation.zurb.com
 .. _`cookiecutter-django-ansible`: https://github.com/HackSoftware/cookiecutter-django-ansible
+.. _`wemake-django-template`: https://github.com/wemake-services/wemake-django-template
 
 Python-Pyramid
 ^^^^^^^^^^^^^^
@@ -700,8 +708,10 @@ Continuous Delivery
 ~~~~~~~~~~~~~~~~~~~
 
 * `painless-continuous-delivery`_: A cookiecutter template for software development setups with continuous delivery baked in. Python (Django, Flask), and experimental PHP support.
+* `cookiecutter-devenv`_: A template to add a development and ci environment to an existing project.
 
 .. _`painless-continuous-delivery`: https://github.com/painless-software/painless-continuous-delivery
+.. _`cookiecutter-devenv`: https://bitbucket.org/greenguavalabs/cookiecutter-devenv.git
 
 Cloud Tools
 ~~~~~~~~~~~~
@@ -721,8 +731,12 @@ Other
 ~~~~~
 
 * `cookiecutter_dotfile`_: Template for a folder of dotfiles managed by stow.
+* `cookiecutter-raml`_: Template for RAML v1.0 API documents.
+
 
 .. _`cookiecutter_dotfile`: https://github.com/bdcaf/cookiecutter_dotfile
+.. _`cookiecutter-raml`: https://github.com/genzj/cookiecutter-raml
+
 
 Similar projects
 ----------------

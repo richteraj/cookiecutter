@@ -3,7 +3,25 @@
 History
 -------
 
-1.6.0 (????-??-??) ???????
+1.7.0 (????-??-??) ???????
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Other Changes:
+
+* Add a `CODE_OF_CONDUCT.md`_ file to the project, thanks to
+  `@andreagrandi`_ (#1009)
+* Add more cookiecutter templates to the mix:
+
+  * `cookiecutter-python-cli`_ by `@xuanluong`_ (#1003)
+
+.. _`cookiecutter-python-cli`: https://github.com/xuanluong/cookiecutter-python-cli
+.. _`CODE_OF_CONDUCT.md`: https://github.com/audreyr/cookiecutter/blob/master/CODE_OF_CONDUCT.md
+
+.. _`@xuanluong`: https://github.com/xuanluong
+.. _`@andreagrandi`: https://github.com/andreagrandi
+
+
+1.6.0 (2017-10-15) Tim Tam
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 New Features:
@@ -12,6 +30,8 @@ New Features:
   ``_template``, thanks to `@aroig`_ (#774)
 * Add a URL abbreviation for GitLab template projects, thanks to `@hackebrot`_
   (#963)
+* Add option to use templates from Zip files or Zip URLs, thanks to
+  `@freakboy3742`_ (#961)
 
 Bug Fixes:
 
@@ -35,6 +55,8 @@ Other Changes:
   according to pep257, thanks to `@terryjbates`_ (#922, #931)
 * Update doc string for ``is_copy_only_path()`` according to pep257, thanks to
   `@mathagician`_ and `@terryjbates`_ (#935, #949)
+* Update doc strings in ``cookiecutter/extensions.py`` according to pep257,
+  thanks to `@meahow`_ (#996)
 * Fix miscellaneous issues with building docs, thanks to `@stevepiercy`_ (#889)
 * Re-implement Makefile and update several make rules, thanks to `@hackebrot`_
   (#930)
@@ -66,6 +88,10 @@ Other Changes:
   * `cookie-cookie`_ by `@tuxredux`_ (#951)
   * `cookiecutter-telegram-bot`_ by `@Ars2014`_ (#984)
   * `python-project-template`_ by `@Kwpolska`_ (#986)
+  * `wemake-django-template`_ by `@wemake-services`_ (#990)
+  * `cookiecutter-raml`_ by `@genzj`_ (#994)
+  * `cookiecutter-anyblok-project`_ by `@AnyBlok`_ (#988)
+  * `cookiecutter-devenv`_ by `@greenguavalabs`_ (#991)
 
 .. _`cookiecutter-kata-gtest`: https://github.com/13coders/cookiecutter-kata-gtest
 .. _`cookiecutter-kata-cpputest`: https://github.com/13coders/cookiecutter-kata-cpputest
@@ -84,6 +110,10 @@ Other Changes:
 .. _`cookie-cookie`: https://github.com/tuxredux/cookie-cookie
 .. _`cookiecutter-telegram-bot`: https://github.com/Ars2014/cookiecutter-telegram-bot
 .. _`python-project-template`: https://github.com/Kwpolska/python-project-template
+.. _`wemake-django-template`: https://github.com/wemake-services/wemake-django-template
+.. _`cookiecutter-raml`: https://github.com/genzj/cookiecutter-raml
+.. _`cookiecutter-anyblok-project`: https://github.com/AnyBlok/cookiecutter-anyblok-project
+.. _`cookiecutter-devenv`: https://bitbucket.org/greenguavalabs/cookiecutter-devenv.git
 
 .. _`@13coders`: https://github.com/13coders
 .. _`@coreysnyder04`: https://github.com/coreysnyder04
@@ -109,6 +139,11 @@ Other Changes:
 .. _`@jmcarp`: https://github.com/jmcarp
 .. _`@Ars2014`: https://github.com/Ars2014
 .. _`@Kwpolska`: https://github.com/Kwpolska
+.. _`@wemake-services`: https://github.com/wemake-services
+.. _`@genzj`: https://github.com/genzj
+.. _`@AnyBlok`: https://github.com/AnyBlok
+.. _`@greenguavalabs`: https://bitbucket.org/greenguavalabs
+.. _`@meahow`: https://github.com/meahow
 
 1.5.1 (2017-02-04) Alfajor
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
